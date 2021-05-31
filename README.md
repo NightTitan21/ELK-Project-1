@@ -161,4 +161,4 @@ SSH into the control node and follow the steps below:
 
 - Run the playbook,and navigate to the Kibana site in your browser to check that the installation worked as expected.
 
-- Kibana can be accessed at http://{elk-public-server-ip}:5601/app/kibana
+- Kibana can be accessed at `http://{elk-public-server-ip}:5601/app/kibana`
