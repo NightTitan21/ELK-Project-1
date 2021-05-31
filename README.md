@@ -152,7 +152,7 @@ SSH into the control node and follow the steps below:
 ```
 [webservers]
 10.1.0.5 ansible_python_interpreter=/usr/bin/python3
-10.1.0.6 ansible_python_interpreter=/usr/bin/python3
+10.1.0.6 ansible_python_interpreter=/usr/bin/python3 
 
 [elk]
 10.0.0.4 ansible_python_interpreter=/usr/bin/python3
